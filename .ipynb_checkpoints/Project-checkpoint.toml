@@ -1,7 +1,5 @@
 [deps]
 CoordinateTransformations = "150eb455-5306-5404-9cee-2592286d6298"
-FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
-GIFImages = "7064036c-d33e-4a25-b247-cf6150d8ad81"
 ImageBinarization = "cbc4b850-ae4b-5111-9e64-df94c024a13d"
 ImageTransformations = "02fcd773-0e25-5acc-982a-7f6622650795"
 Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
